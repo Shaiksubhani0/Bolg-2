@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:  hsl(330, 80%, 90%);
+    font-family: Serif;
+    font-weight: 400;
+}
+#logo{
+    height: 250px;
+    width: 500px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 25px;
+}
+#container{
+    height: 232vh;
+    width: 43vw;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 350px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.one{
+     font-size: 18px;
+   margin-left: 25px;  
+   margin-top: 20px;
+}
+.two{
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left:-15px;
+    color: rgba(0,0,0,0.8);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h4{
+    color: hsl(329, 86%, 63%) ;
+    margin-left: 45px;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.three{
+    margin-left: 60px;
+    line-height: 10px;
+}
+.two{
+    padding-left: 20px;
+}
+#box {
+    border:2px   hsl(330, 37%, 97%) solid;
+    border-radius: 20px;
+ background-color:  hsl(330, 37%, 97%);
+ margin-left: 20px;
+ margin-right: 20px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.card {
+    color: hsl(30, 10%, 34%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#two{
+    margin-left: 40px;
+}
+.five{
+    padding-left: 20px;
+    line-height: 25px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif ;
+    margin-bottom: 5px;
+}
+#six{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+.eight{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 25px;
+    color: hsl(30, 10%, 34%) ;
+}
+ol{
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+li{
+    color: rgba(0,0,0,10);
+    font-weight: 900;
+}
+pre{
+    color: black;
+}
+#seven{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+#ii{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: hsl(30, 10%, 34%) ;
+}
+#ss{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.mm{
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     font-size: 14px;
+     font-weight: 900;
+}
+.kk{
+    margin-left:20px ;
+    margin-right: 25px;
+}
